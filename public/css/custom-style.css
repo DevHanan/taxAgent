@@ -1,0 +1,23 @@
+.error-help-block {
+    color: #ce5252 !important;
+}
+.invalid-feedback {
+
+    color: #ea5455 !important;
+}
+.valid-feedback {
+
+    color: #28c76f !important;
+}
+
+.style_btn {
+    margin: 5px !important;
+        padding: 10px !important;
+
+}
+.action-option-group {
+    display: inherit !important;
+}
+.btn-group-vertical > .btn, .btn-group-vertical > .btn-group {
+    width: auto;
+}
